@@ -1,0 +1,101 @@
+2021-03-28 17:05:26.200  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 1.8.0_131 on BF-201909251002 with PID 12828 (D:\work\workspace\community\target\classes started by slHu in D:\work\workspace\community)
+2021-03-28 17:05:26.200 DEBUG 12828 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:05:26.200  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to default profiles: default
+2021-03-28 17:05:26.380  INFO 12828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-28 17:05:26.381  INFO 12828 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-28 17:05:26.382  INFO 12828 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-28 17:05:26.382  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2021-03-28 17:05:26.382  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-28 17:05:26.382  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-28 17:05:26.382  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2021-03-28 17:05:26.394  INFO 12828 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2021-03-28 17:05:26.394  INFO 12828 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 193 ms
+2021-03-28 17:05:26.479  INFO 12828 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:05:26.515  INFO 12828 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:05:26.543  INFO 18724 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_131 on BF-201909251002 with PID 18724 (started by slHu in D:\work\workspace\community)
+2021-03-28 17:05:26.544 DEBUG 18724 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:05:26.545  INFO 18724 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2021-03-28 17:05:26.598  INFO 12828 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-28 17:05:26.611  INFO 12828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-03-28 17:05:26.615  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 0.447 seconds (JVM running for 1250.529)
+2021-03-28 17:05:26.616  INFO 12828 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-03-28 17:05:27.860  INFO 18724 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:05:27.951  INFO 18724 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:05:28.221  INFO 18724 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.975 seconds (JVM running for 2.678)
+2021-03-28 17:05:28.367 DEBUG 18724 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2021-03-28 17:05:28.367  INFO 18724 --- [main] com.nowcoder.community.LoggerTests       : info log
+2021-03-28 17:05:28.368  WARN 18724 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2021-03-28 17:05:28.368 ERROR 18724 --- [main] com.nowcoder.community.LoggerTests       : error log
+2021-03-28 17:05:28.376  INFO 18724 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:06:03.214  INFO 19444 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_131 on BF-201909251002 with PID 19444 (started by slHu in D:\work\workspace\community)
+2021-03-28 17:06:03.216 DEBUG 19444 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:06:03.217  INFO 19444 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2021-03-28 17:06:04.685  INFO 19444 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:06:04.780  INFO 19444 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:06:05.065  INFO 19444 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.139 seconds (JVM running for 2.832)
+2021-03-28 17:06:05.222 DEBUG 19444 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2021-03-28 17:06:05.222  INFO 19444 --- [main] com.nowcoder.community.LoggerTests       : info log
+2021-03-28 17:06:05.222  WARN 19444 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2021-03-28 17:06:05.222 ERROR 19444 --- [main] com.nowcoder.community.LoggerTests       : error log
+2021-03-28 17:06:05.230  INFO 19444 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:08:04.778  INFO 12828 --- [Thread-31] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:08:04.805  INFO 7268 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_131 on BF-201909251002 with PID 7268 (started by slHu in D:\work\workspace\community)
+2021-03-28 17:08:04.806 DEBUG 7268 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:08:04.807  INFO 7268 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2021-03-28 17:08:04.904  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 1.8.0_131 on BF-201909251002 with PID 12828 (D:\work\workspace\community\target\classes started by slHu in D:\work\workspace\community)
+2021-03-28 17:08:04.904 DEBUG 12828 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:08:04.904  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to default profiles: default
+2021-03-28 17:08:05.137  INFO 12828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-28 17:08:05.137  INFO 12828 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-28 17:08:05.137  INFO 12828 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-28 17:08:05.138  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2021-03-28 17:08:05.138  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-28 17:08:05.138  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-28 17:08:05.138  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2021-03-28 17:08:05.151  INFO 12828 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2021-03-28 17:08:05.152  INFO 12828 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 245 ms
+2021-03-28 17:08:05.241  INFO 12828 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:08:05.252  INFO 12828 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:08:05.278  INFO 12828 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-28 17:08:05.285  INFO 12828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-03-28 17:08:05.288  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 0.402 seconds (JVM running for 1409.201)
+2021-03-28 17:08:05.290  INFO 12828 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-03-28 17:08:06.253  INFO 7268 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:08:06.351  INFO 7268 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:08:06.636  INFO 7268 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.155 seconds (JVM running for 2.843)
+2021-03-28 17:08:06.794 DEBUG 7268 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2021-03-28 17:08:06.795  INFO 7268 --- [main] com.nowcoder.community.LoggerTests       : info log
+2021-03-28 17:08:06.795  WARN 7268 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2021-03-28 17:08:06.795 ERROR 7268 --- [main] com.nowcoder.community.LoggerTests       : error log
+2021-03-28 17:08:06.802  INFO 7268 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:10:43.953  INFO 7864 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_131 on BF-201909251002 with PID 7864 (started by slHu in D:\work\workspace\community)
+2021-03-28 17:10:43.954 DEBUG 7864 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:10:43.955  INFO 7864 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2021-03-28 17:10:44.296  INFO 12828 --- [Thread-36] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:10:44.405  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 1.8.0_131 on BF-201909251002 with PID 12828 (D:\work\workspace\community\target\classes started by slHu in D:\work\workspace\community)
+2021-03-28 17:10:44.405 DEBUG 12828 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-28 17:10:44.405  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to default profiles: default
+2021-03-28 17:10:44.570  INFO 12828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-28 17:10:44.571  INFO 12828 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-28 17:10:44.571  INFO 12828 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-28 17:10:44.571  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2021-03-28 17:10:44.571  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-28 17:10:44.571  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-28 17:10:44.571  INFO 12828 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2021-03-28 17:10:44.583  INFO 12828 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2021-03-28 17:10:44.584  INFO 12828 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 178 ms
+2021-03-28 17:10:44.641  INFO 12828 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:10:44.649  INFO 12828 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:10:44.676  INFO 12828 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-28 17:10:44.683  INFO 12828 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-03-28 17:10:44.686  INFO 12828 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 0.297 seconds (JVM running for 1568.599)
+2021-03-28 17:10:44.686  INFO 12828 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-03-28 17:10:45.328  INFO 7864 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:10:45.412  INFO 7864 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-28 17:10:45.680  INFO 7864 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.02 seconds (JVM running for 2.715)
+2021-03-28 17:10:45.823 DEBUG 7864 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2021-03-28 17:10:45.823  INFO 7864 --- [main] com.nowcoder.community.LoggerTests       : info log
+2021-03-28 17:10:45.823  WARN 7864 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2021-03-28 17:10:45.823 ERROR 7864 --- [main] com.nowcoder.community.LoggerTests       : error log
+2021-03-28 17:10:45.832  INFO 7864 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-28 17:11:55.701  INFO 12828 --- [Thread-41] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
